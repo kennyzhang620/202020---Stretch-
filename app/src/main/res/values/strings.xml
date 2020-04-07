@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">20.20.20 Sample</string>
+    <string name="appchannel">Notifications</string>
+    <string name="channeldescriptor">Notifications for APp</string>
+</resources>
